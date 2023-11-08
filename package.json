@@ -50,7 +50,7 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
-    "@types/chai": "^4.2.11",
+    "@types/chai": "^4.3.10",
     "@types/firefox-webext-browser": "^78.0.1",
     "@types/jquery": "^3.3.38",
     "@types/jquery.address": "^1.5.29",
